@@ -10,7 +10,7 @@ const path = require('path');
 
 const config = {
     apiOptions: {
-        port: 3000,
+        port: 3100,
         adminApiPath: 'admin-api',
         adminApiPlayground: {
             settings: {
